@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AdrianMaciejHelloWorld</string>
+    <string name="hello_string">Mroczna tajemnica przygody...</string>
+    <string name="adventure_string">To the adventure</string>
+    <string name="remember">Pamiętaj!</string>
+    <string name="send_button">SEND</string>
+    <string name="to">To:</string>
+    <string name="subject">Subject:</string>
+    <string name="message">message</string>
+    <string name="roll">Roll 2d6</string>
+    <string name="waga_w_kg">Waga w kg</string>
+    <string name="wzrost_w_cm">Wzrost w cm</string>
+    <string name="oblicz_bmi">Oblicz index BMI</string>
+    <string name="write_to_logcat">Write to Logcat</string>
+    <string name="watch_out">Watch Out!!</string>
+    <string name="edit_text_common_hint">Something will be written here</string>
+    <string name="game_value_error_msg">That\'s not a proper number!</string>
+</resources>
